@@ -3,7 +3,6 @@ import time
 import sys, os
 import colorama
 import subprocess
-import progressbar
 colorama.init(autoreset=True, convert=True)
 
 

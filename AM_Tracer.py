@@ -6,16 +6,6 @@ import subprocess
 import progressbar
 colorama.init(autoreset=True, convert=True)
 
-"""
-### VAR for DEV & DEBUG
-
-_APK_PATH = "C:\\Users\\USER\\Desktop\\AM_Tracer\\origin_app-ncs-release-v2.3.1.apk"
-_SOURCE_PATH = "C:\\Users\\USER\\Desktop\\AM_Tracer\\unpak_origin_app-ncs-release-v2.3.1"
-_APK_NAME = os.path.basename(_APK_PATH) 
-_APKTOOLS = "apktool_2.3.3.jar"
-_SMALI_AM_TRACER = ""
-
-"""
 
 # TEST KEY &  VAR
 
